@@ -36,12 +36,14 @@ def ft(isin, cur):
     m = re.search(r'class="mod-ui-data-list__value">([^<]+)<', page)
     d = re.search(r"as of ([A-Z][a-z]{2}) (\d{1,2}) (\d{4})", page)
     c = re.search(r"Price \(([A-Z]{3})\)", page)
+    n = re.search(r"<title>([^<,]+)", page)
     if not (m and d):
         raise ValueError("no price on FT page")
     nav = num(m.group(1))
     date = f"{d.group(3)}-{MON[d.group(1).lower()]:02d}-{int(d.group(2)):02d}"
     return {"nav": nav, "date": date, "cur": c.group(1) if c else cur,
-            "src": "FT Markets", "url": url}
+            "src": "FT Markets", "url": url,
+            "src_name": html.unescape(n.group(1)).strip() if n else ""}
 
 
 def blackrock(url, isin):
@@ -54,8 +56,10 @@ def blackrock(url, isin):
     if not m:
         raise ValueError("no NAV on BlackRock page")
     date = f"{m.group(3)}-{MON[m.group(2).lower()]:02d}-{int(m.group(1)):02d}"
+    n = re.search(r"<title>([^<|]+)", page)
     return {"nav": num(m.group(5)), "date": date, "cur": m.group(4),
-            "src": "BlackRock", "url": url}
+            "src": "BlackRock", "url": url, "isin_checked": bool(k),
+            "src_name": html.unescape(n.group(1)).strip() if n else ""}
 
 
 def main():
@@ -86,6 +90,7 @@ def main():
         if got:
             best = max(got, key=lambda v: (v["date"], v["src"] == "BlackRock"))
             best["isin"] = isin
+            best["name"] = row["name"]
             out[code] = best
         elif code in old:
             out[code] = dict(old[code], stale=True)
