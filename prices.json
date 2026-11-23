@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-23T06:25:52Z",
+ "checked_utc": "2026-11-23T18:09:38Z",
  "count": 99,
  "errors": [],
  "funds": {
@@ -35,7 +35,7 @@
   },
   "062": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU1740659344",
    "name": "ALLIANZ GLOBAL FLOATING RATE NOTES PLUS \"RT\" (USD) ACC",
    "nav": 13.2,
@@ -55,10 +55,10 @@
   },
   "065": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU0863495239",
    "name": "KOTAK FUNDS - INDIA GROWTH FUND \"C\" (USD) ACC",
-   "nav": 17.46,
+   "nav": 17.23,
    "src": "FT Markets",
    "src_name": "Kotak Funds - India Growth Fund C USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0863495239:USD"
@@ -75,17 +75,17 @@
   },
   "067": {
    "cur": "USD",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "isin": "LU2233258073",
    "name": "HSBC ISLAMIC GLOBAL EQUITY INDEX \"BC\" (USD) ACC",
-   "nav": 18.6,
+   "nav": 17.81,
    "src": "FT Markets",
    "src_name": "HSBC Islamic Funds - HSBC Islamic Global Equity Index Fund BC",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2233258073:USD"
   },
   "068": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU0837970705",
    "name": "abrdn SICAV I - ALL CHINA SUSTAINABLE EQUITY \"X\" (USD) ACC",
    "nav": 10.63,
@@ -206,10 +206,10 @@
   },
   "088": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU0895805793",
    "name": "JUPITER DYNAMIC BOND \"D\" (USDHDG) ACC",
-   "nav": 15.94,
+   "nav": 15.92,
    "src": "FT Markets",
    "src_name": "Jupiter Dynamic Bond D USD Hsc Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0895805793:USD"
@@ -236,10 +236,10 @@
   },
   "092": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU0946220349",
    "name": "JUPITER FINANCIAL INNOVATION \"D\" (USD) ACC",
-   "nav": 28.5,
+   "nav": 28.52,
    "src": "FT Markets",
    "src_name": "Jupiter Financial Innovation Class D USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0946220349:USD"
@@ -266,20 +266,20 @@
   },
   "097": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU1997245508",
    "name": "ALLIANZ CHINA A-SHARES \"RT\" (USD) ACC A",
-   "nav": 13.97,
+   "nav": 14.09,
    "src": "FT Markets",
    "src_name": "Allianz Global Investors Fund - Allianz China A Shares RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1997245508:USD"
   },
   "098": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU1698898050",
    "name": "ALLIANZ GLOBAL ARTIFICIAL INTELLIGENCE \"RT\" (USD) ACC",
-   "nav": 29.89,
+   "nav": 28.72,
    "src": "FT Markets",
    "src_name": "Allianz Global Investors Fund - Allianz Global Artificial Intelligence RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1698898050:USD"
@@ -296,10 +296,10 @@
   },
   "101": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "IE00BYVJRD56",
    "name": "JUPITER ASSET MANAGEMENT SERIES PLC JUPITER GOLD & SILVER \"I\" (USD) ACC",
-   "nav": 37.91,
+   "nav": 38.22,
    "src": "FT Markets",
    "src_name": "Jupiter Gold & Silver Fund I USD Accumulation",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BYVJRD56:USD"
@@ -397,10 +397,10 @@
   },
   "117": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU2048586593",
    "name": "ALLIANZ SMART ENERGY \"RT\" (USD) ACC",
-   "nav": 17.59,
+   "nav": 17.49,
    "src": "FT Markets",
    "src_name": "Allianz Global Investors Fund - Allianz Smart Energy RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2048586593:USD"
@@ -427,10 +427,10 @@
   },
   "121": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU0955862528",
    "name": "INVESCO GREATER CHINA EQUITY \"Z\" (USD) ACC",
-   "nav": 19.8,
+   "nav": 20.27,
    "src": "FT Markets",
    "src_name": "Invesco Funds - Invesco Greater China Equity Fund Z Accumulation USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0955862528:USD"
@@ -467,10 +467,10 @@
   },
   "126": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU0863494851",
    "name": "KOTAK INDIA MIDCAP \"C\" (USD) ACC",
-   "nav": 27.07,
+   "nav": 26.79,
    "src": "FT Markets",
    "src_name": "Kotak Funds - India Midcap Fund C USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0863494851:USD"
@@ -547,20 +547,20 @@
   },
   "141": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU1923143488",
    "name": "ALLIANZ DYNAMIC ASIAN HIGH YIELD BOND \"RT\" (USD) ACC",
-   "nav": 8.82,
+   "nav": 8.78,
    "src": "FT Markets",
    "src_name": "Allianz Global Investors Fund - Allianz Dynamic Asian High Yield Bond RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1923143488:USD"
   },
   "142": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU1687709441",
    "name": "ALLIANZ EUROPE EQ GROWTH \"RT\" (USDHDG) ACC",
-   "nav": 17.02,
+   "nav": 17.15,
    "src": "FT Markets",
    "src_name": "Allianz Global Investors Fund - Allianz Europe Equity Growth RT H2 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1687709441:USD"
@@ -777,30 +777,30 @@
   },
   "165": {
    "cur": "USD",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "isin": "IE00BYMM2054",
    "name": "OLD MUTUAL GLOBAL ISLAMIC EQUITY 'D' (USD) ACC",
-   "nav": 25.72,
+   "nav": 24.63,
    "src": "FT Markets",
    "src_name": "Russell Investment Company plc - Old Mutual Global Islamic Equity Fund D Hybrid Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BYMM2054:USD"
   },
   "166": {
    "cur": "USD",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "isin": "LU1039522393",
    "name": "RASMALA GLOBAL SUKUK \"A\" (USD) ACC",
-   "nav": 148.29,
+   "nav": 148.05,
    "src": "FT Markets",
    "src_name": "Rasmala Investment Funds - Rasmala Global Sukuk Fund Rasmala USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1039522393:USD"
   },
   "167": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU1060358063",
    "name": "EMIRATES ISLAMIC GLOBAL BALANCED \"A\" (USD) ACC",
-   "nav": 15.09,
+   "nav": 14.8,
    "src": "FT Markets",
    "src_name": "Emirates NBD SICAV - Emirates Islamic Global Balanced Fund A USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1060358063:USD"
@@ -827,10 +827,10 @@
   },
   "173": {
    "cur": "USD",
-   "date": "2026-11-18",
+   "date": "2026-11-20",
    "isin": "IE000ILYNRB3",
    "name": "ARYABHATA INDIA \"RDR\" (USD) ACC",
-   "nav": 15.79,
+   "nav": 16.02,
    "src": "FT Markets",
    "src_name": "Aryabhata India Fund RDR USD Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE000ILYNRB3:USD"
@@ -907,31 +907,31 @@
   },
   "181": {
    "cur": "USD",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "isin": "IE00B62WG306",
    "isin_checked": true,
    "name": "ISHARES DEVELOPED WORLD INDEX (IE) \"I\" (USD) ACC",
-   "nav": 46.03,
+   "nav": 44.5,
    "src": "BlackRock",
    "src_name": "iShares Developed World Index Fund (IE)",
    "url": "https://www.blackrock.com/ch/individual/en/products/228634/blackrock-blk-developed-world-index-inst-acc-usd-fund"
   },
   "182": {
    "cur": "USD",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "isin": "IE00B4L8GV30",
    "name": "ISHARES EUROPE INDEX (IE) \"I\" (USD) INC",
-   "nav": 23.52,
+   "nav": 23.06,
    "src": "FT Markets",
    "src_name": "iShares Europe Index Fund (IE) Institutional Dist USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B4L8GV30:USD"
   },
   "183": {
    "cur": "USD",
-   "date": "2026-11-19",
+   "date": "2026-11-20",
    "isin": "IE00B1W56K18",
    "name": "ISHARES NORTH AMERICA INDEX (IE) \"I\" (USD) ACC",
-   "nav": 59.37,
+   "nav": 57.2,
    "src": "FT Markets",
    "src_name": "iShares North America Index Fund (IE) Institutional Acc USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B1W56K18:USD"
@@ -988,20 +988,20 @@
   },
   "189": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU1060357842",
    "name": "EMIRATES WORLD OPPORTUNITIES \"I\" (USD) ACC",
-   "nav": 12.43,
+   "nav": 11.91,
    "src": "FT Markets",
    "src_name": "Emirates NBD SICAV - Emirates World Opportunities Fund I USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1060357842:USD"
   },
   "202": {
    "cur": "USD",
-   "date": "2026-11-20",
+   "date": "2026-11-23",
    "isin": "LU2027376685",
    "name": "MULTIPARTNER SICAV TATA INDIA EQUITY FUND \"R\" (USD) ACC",
-   "nav": 120.14,
+   "nav": 118.29,
    "src": "FT Markets",
    "src_name": "Multipartner Sicav Tata India Equity Fund R USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2027376685:USD"
