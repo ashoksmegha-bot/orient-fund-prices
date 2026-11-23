@@ -1,0 +1,799 @@
+{
+ "checked_utc": "2026-11-23T06:06:20Z",
+ "count": 99,
+ "errors": [],
+ "funds": {
+  "057": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0252969661",
+   "nav": 24.39,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0252969661:USD"
+  },
+  "059": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1255915586",
+   "nav": 23.67,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1255915586:USD"
+  },
+  "060": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0346391245",
+   "nav": 30.59,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346391245:USD"
+  },
+  "062": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1740659344",
+   "nav": 13.2,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1740659344:USD"
+  },
+  "063": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0976566736",
+   "nav": 76.26,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566736:USD"
+  },
+  "065": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0863495239",
+   "nav": 17.46,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0863495239:USD"
+  },
+  "066": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0219455952",
+   "nav": 300.66,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219455952:USD"
+  },
+  "067": {
+   "cur": "USD",
+   "date": "2026-11-19",
+   "isin": "LU2233258073",
+   "nav": 18.6,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2233258073:USD"
+  },
+  "068": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0837970705",
+   "nav": 10.63,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0837970705:USD"
+  },
+  "070": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0219454633",
+   "nav": 482.4,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219454633:USD"
+  },
+  "072": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0552552704",
+   "nav": 49.94,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0552552704:USD"
+  },
+  "073": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0252968424",
+   "nav": 98.2,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0252968424:USD"
+  },
+  "074": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0792613431",
+   "nav": 11.94,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792613431:USD"
+  },
+  "075": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0776122383",
+   "nav": 15.28,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/229043/blackrock-asian-tiger-bond-d2-usd-fund"
+  },
+  "076": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0341380367",
+   "nav": 58.67,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0341380367:USD"
+  },
+  "078": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0106252546",
+   "nav": 29.55,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0106252546:USD"
+  },
+  "080": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0180457029",
+   "nav": 1030.01,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0180457029:USD"
+  },
+  "083": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0346392565",
+   "nav": 13.06,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346392565:USD"
+  },
+  "086": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0318941159",
+   "nav": 22.12,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0318941159:USD"
+  },
+  "087": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0346390940",
+   "nav": 20.2,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346390940:USD"
+  },
+  "088": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0895805793",
+   "nav": 15.94,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0895805793:USD"
+  },
+  "090": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "IE00BVG1NY86",
+   "nav": 359.94,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BVG1NY86:USD"
+  },
+  "091": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0792612896",
+   "nav": 18.46,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612896:USD"
+  },
+  "092": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0946220349",
+   "nav": 28.5,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0946220349:USD"
+  },
+  "093": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0792612466",
+   "nav": 51.66,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612466:USD"
+  },
+  "094": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0346390866",
+   "nav": 23.3,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346390866:USD"
+  },
+  "097": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1997245508",
+   "nav": 13.97,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1997245508:USD"
+  },
+  "098": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1698898050",
+   "nav": 29.89,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1698898050:USD"
+  },
+  "100": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0892274530",
+   "nav": 19.75,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0892274530:USD"
+  },
+  "101": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "IE00BYVJRD56",
+   "nav": 37.91,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BYVJRD56:USD"
+  },
+  "103": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0540001038",
+   "nav": 32.18,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0540001038:USD"
+  },
+  "106": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0896351102",
+   "nav": 10.65,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0896351102:USD"
+  },
+  "108": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0828813369",
+   "nav": 83.87,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0828813369:USD"
+  },
+  "110": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1560650563",
+   "nav": 54.2,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1560650563:USD"
+  },
+  "111": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0106261026",
+   "nav": 27.05,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0106261026:USD"
+  },
+  "112": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0252969075",
+   "nav": 41.77,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/229924/blackrock-world-energy-d2-usd-fund"
+  },
+  "114": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0168448610",
+   "nav": 549.42,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0168448610:USD"
+  },
+  "115": {
+   "cur": "USD",
+   "date": "2026-11-19",
+   "isin": "LU0862302089",
+   "nav": 188.56,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0862302089:USD"
+  },
+  "116": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0370789132",
+   "nav": 31.12,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0370789132:USD"
+  },
+  "117": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU2048586593",
+   "nav": 17.59,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2048586593:USD"
+  },
+  "119": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1992939584",
+   "nav": 17.41,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1992939584:USD"
+  },
+  "120": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0976566496",
+   "nav": 31.51,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566496:USD"
+  },
+  "121": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0955862528",
+   "nav": 19.8,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0955862528:USD"
+  },
+  "122": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0724618946",
+   "nav": 134.53,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0724618946:USD"
+  },
+  "124": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0954275532",
+   "nav": 28.65,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0954275532:USD"
+  },
+  "125": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0329593007",
+   "nav": 94.56,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0329593007:USD"
+  },
+  "126": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0863494851",
+   "nav": 27.07,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0863494851:USD"
+  },
+  "129": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0792612383",
+   "nav": 37.0,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612383:USD"
+  },
+  "131": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0329592538",
+   "nav": 106.65,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0329592538:USD"
+  },
+  "133": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0130103749",
+   "nav": 619.28,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0130103749:USD"
+  },
+  "134": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0326960662",
+   "nav": 17.26,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0326960662:USD"
+  },
+  "137": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1623406540",
+   "nav": 14.15,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1623406540:USD"
+  },
+  "139": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0827887356",
+   "nav": 16.39,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0827887356:USD"
+  },
+  "140": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0346392482",
+   "nav": 17.79,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346392482:USD"
+  },
+  "141": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1923143488",
+   "nav": 8.82,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1923143488:USD"
+  },
+  "142": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1687709441",
+   "nav": 17.02,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1687709441:USD"
+  },
+  "143": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0411709560",
+   "nav": 71.2,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/229404/blackrock-asian-dragon-d2-usd-fund"
+  },
+  "145": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0719319435",
+   "nav": 17.02,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/228438/blackrock-renminbi-bond-d2-usd-fund"
+  },
+  "146": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1984140423",
+   "nav": 62.21,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/308644/blackrock-continental-european-flexible-fund"
+  },
+  "147": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1564329206",
+   "nav": 15.25,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/292581/blackrock-dynamic-high-income-fund"
+  },
+  "148": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU2719175031",
+   "nav": 119.08,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2719175031:USD"
+  },
+  "149": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0653880228",
+   "nav": 26.28,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0653880228:USD"
+  },
+  "150": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0827877472",
+   "nav": 31.96,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/241480/blackrock-euro-bond-d2-usd-fund"
+  },
+  "151": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0827878280",
+   "nav": 66.37,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/243805/blackrock-euro-markets-d2-usd-fund"
+  },
+  "152": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0411709727",
+   "nav": 258.39,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/229654/blackrock-european-d2-usd-fund"
+  },
+  "153": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1984140779",
+   "nav": 40.34,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/308645/blackrock-european-equity-income-fund"
+  },
+  "154": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0827879411",
+   "nav": 170.05,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/243870/blackrock-european-value-d2-usd-fund"
+  },
+  "155": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0368268198",
+   "nav": 47.35,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0368268198:USD"
+  },
+  "156": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0368270509",
+   "nav": 110.1,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0368270509:USD"
+  },
+  "157": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0784385337",
+   "nav": 19.56,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0784385337:USD"
+  },
+  "158": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0724618193",
+   "nav": 65.68,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0724618193:USD"
+  },
+  "159": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0827883108",
+   "nav": 113.62,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ae/intermediaries/products/241684/blackrock-japan-small-midcap-opps-d2-usd-fund"
+  },
+  "160": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0368268602",
+   "nav": 30.97,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0368268602:USD"
+  },
+  "161": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0252969232",
+   "nav": 110.53,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0252969232:USD"
+  },
+  "162": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0341384864",
+   "nav": 538.28,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0341384864:USD"
+  },
+  "163": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0297941972",
+   "nav": 90.5,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0297941972:USD"
+  },
+  "165": {
+   "cur": "USD",
+   "date": "2026-11-19",
+   "isin": "IE00BYMM2054",
+   "nav": 25.72,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BYMM2054:USD"
+  },
+  "166": {
+   "cur": "USD",
+   "date": "2026-11-19",
+   "isin": "LU1039522393",
+   "nav": 148.29,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1039522393:USD"
+  },
+  "167": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1060358063",
+   "nav": 15.09,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1060358063:USD"
+  },
+  "168": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0976564954",
+   "nav": 10.13,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976564954:USD"
+  },
+  "172": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0121174428",
+   "nav": 1923.32,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0121174428:USD"
+  },
+  "173": {
+   "cur": "USD",
+   "date": "2026-11-18",
+   "isin": "IE000ILYNRB3",
+   "nav": 15.79,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE000ILYNRB3:USD"
+  },
+  "174": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0333811072",
+   "nav": 47.91,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0333811072:USD"
+  },
+  "175": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0329593262",
+   "nav": 80.97,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0329593262:USD"
+  },
+  "176": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1586275312",
+   "nav": 16.69,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1586275312:USD"
+  },
+  "177": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU2432581036",
+   "nav": 18.75,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2432581036:USD"
+  },
+  "178": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "IE00B23Z8S99",
+   "nav": 515.54,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B23Z8S99:USD"
+  },
+  "179": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "IE00BK5WVZ23",
+   "nav": 12.64,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BK5WVZ23:USD"
+  },
+  "180": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0861579349",
+   "nav": 57.61,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0861579349:USD"
+  },
+  "181": {
+   "cur": "USD",
+   "date": "2026-11-19",
+   "isin": "IE00B62WG306",
+   "nav": 46.03,
+   "src": "BlackRock",
+   "url": "https://www.blackrock.com/ch/individual/en/products/228634/blackrock-blk-developed-world-index-inst-acc-usd-fund"
+  },
+  "182": {
+   "cur": "USD",
+   "date": "2026-11-19",
+   "isin": "IE00B4L8GV30",
+   "nav": 23.52,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B4L8GV30:USD"
+  },
+  "183": {
+   "cur": "USD",
+   "date": "2026-11-19",
+   "isin": "IE00B1W56K18",
+   "nav": 59.37,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B1W56K18:USD"
+  },
+  "184": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU3094265504",
+   "nav": 10.76,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265504:USD"
+  },
+  "185": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU3094265413",
+   "nav": 10.67,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265413:USD"
+  },
+  "186": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU3094265330",
+   "nav": 10.44,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265330:USD"
+  },
+  "187": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU0605515963",
+   "nav": 41.91,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0605515963:USD"
+  },
+  "188": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1689658778",
+   "nav": 18.09,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1689658778:USD"
+  },
+  "189": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU1060357842",
+   "nav": 12.43,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1060357842:USD"
+  },
+  "202": {
+   "cur": "USD",
+   "date": "2026-11-20",
+   "isin": "LU2027376685",
+   "nav": 120.14,
+   "src": "FT Markets",
+   "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2027376685:USD"
+  }
+ }
+}
