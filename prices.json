@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-23T06:06:20Z",
+ "checked_utc": "2026-11-23T06:25:52Z",
  "count": 99,
  "errors": [],
  "funds": {
@@ -7,792 +7,1003 @@
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0252969661",
+   "name": "BGF SUSTAINABLE ENERGY \"D2\" (USD) ACC",
    "nav": 24.39,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Sustainable Energy Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0252969661:USD"
   },
   "059": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1255915586",
+   "name": "ALLIANZ INCOME AND GROWTH \"RT\" (USD) ACC",
    "nav": 23.67,
    "src": "FT Markets",
+   "src_name": "Allianz Global Investors Fund - Allianz Income and Growth RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1255915586:USD"
   },
   "060": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0346391245",
+   "name": "FIDELITY INDIA FOCUS \"Y\" (USD)",
    "nav": 30.59,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - India Focus Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346391245:USD"
   },
   "062": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1740659344",
+   "name": "ALLIANZ GLOBAL FLOATING RATE NOTES PLUS \"RT\" (USD) ACC",
    "nav": 13.2,
    "src": "FT Markets",
+   "src_name": "Allianz Global Investors Fund - Allianz Global Floating Rate Notes Plus RT (USD)",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1740659344:USD"
   },
   "063": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0976566736",
+   "name": "FRANKLIN TECHNOLOGY \"W\" (USD) ACC",
    "nav": 76.26,
    "src": "FT Markets",
+   "src_name": "Franklin Technology Fund W (Acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566736:USD"
   },
   "065": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0863495239",
+   "name": "KOTAK FUNDS - INDIA GROWTH FUND \"C\" (USD) ACC",
    "nav": 17.46,
    "src": "FT Markets",
+   "src_name": "Kotak Funds - India Growth Fund C USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0863495239:USD"
   },
   "066": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0219455952",
+   "name": "MFS MERIDIAN EMERGING MARKETS DEBT \"I1\" ACC",
    "nav": 300.66,
    "src": "FT Markets",
+   "src_name": "MFS Meridian Funds - Emerging Markets Debt Fund I1 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219455952:USD"
   },
   "067": {
    "cur": "USD",
    "date": "2026-11-19",
    "isin": "LU2233258073",
+   "name": "HSBC ISLAMIC GLOBAL EQUITY INDEX \"BC\" (USD) ACC",
    "nav": 18.6,
    "src": "FT Markets",
+   "src_name": "HSBC Islamic Funds - HSBC Islamic Global Equity Index Fund BC",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2233258073:USD"
   },
   "068": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0837970705",
+   "name": "abrdn SICAV I - ALL CHINA SUSTAINABLE EQUITY \"X\" (USD) ACC",
    "nav": 10.63,
    "src": "FT Markets",
+   "src_name": "abrdn SICAV I - All China Sustainable Equity Fund X Acc USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0837970705:USD"
   },
   "070": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0219454633",
+   "name": "MFS MERIDIAN GLOBAL EQUITY \"I1\" ACC",
    "nav": 482.4,
    "src": "FT Markets",
+   "src_name": "MFS Meridian Funds - Global Equity Fund I1 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219454633:USD"
   },
   "072": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0552552704",
+   "name": "BGF USD HIGH YIELD BOND \"D2\" (USD) ACC",
    "nav": 49.94,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - US Dollar High Yield Bond Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0552552704:USD"
   },
   "073": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0252968424",
+   "name": "BGF WORLD GOLD \"D2\" ACC",
    "nav": 98.2,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - World Gold Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0252968424:USD"
   },
   "074": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0792613431",
+   "name": "TEMPLETON GLOBAL TOTAL RETURN \"W\" (USD) ACC",
    "nav": 11.94,
    "src": "FT Markets",
+   "src_name": "Templeton Global Total Return Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792613431:USD"
   },
   "075": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0776122383",
+   "isin_checked": true,
+   "name": "BGF ASIAN TIGER BOND \"D2\" ACC",
    "nav": 15.28,
    "src": "BlackRock",
+   "src_name": "BGF Asian Tiger Bond Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/229043/blackrock-asian-tiger-bond-d2-usd-fund"
   },
   "076": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0341380367",
+   "name": "BGF US GROWTH \"D2\"",
    "nav": 58.67,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - US Growth Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0341380367:USD"
   },
   "078": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0106252546",
+   "name": "SCHRODER ISF EMERGING MARKETS \"C\" ACC",
    "nav": 29.55,
    "src": "FT Markets",
+   "src_name": "Schroder International Selection Fund Emerging Markets C Accumulation USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0106252546:USD"
   },
   "080": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0180457029",
+   "name": "PICTET INDIAN EQUITIES \"I\" ACC",
    "nav": 1030.01,
    "src": "FT Markets",
+   "src_name": "Pictet-Indian Equities I USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0180457029:USD"
   },
   "083": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0346392565",
+   "name": "US DOLLAR CASH \"Y\" USD ACC",
    "nav": 13.06,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - US Dollar Cash Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346392565:USD"
   },
   "086": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0318941159",
+   "name": "FIDELITY FUNDS ASIA EQUITY ESG \"Y\" (USD) ACC",
    "nav": 22.12,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - Asia Equity ESG Fund Y-ACC-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0318941159:USD"
   },
   "087": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0346390940",
+   "name": "FIDELITY EMERGING MARKETS \"Y\"",
    "nav": 20.2,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - Emerging Markets Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346390940:USD"
   },
   "088": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0895805793",
+   "name": "JUPITER DYNAMIC BOND \"D\" (USDHDG) ACC",
    "nav": 15.94,
    "src": "FT Markets",
+   "src_name": "Jupiter Dynamic Bond D USD Hsc Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0895805793:USD"
   },
   "090": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "IE00BVG1NY86",
+   "name": "FTGF CLEARBRIDGE US LARGE CAP GROWTH \"X\" (USD) ACC",
    "nav": 359.94,
    "src": "FT Markets",
+   "src_name": "FTGF ClearBridge US Large Cap Growth Fund Class X US$ Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BVG1NY86:USD"
   },
   "091": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0792612896",
+   "name": "TEMPLETON ASIAN GROWTH \"W\" (USD) ACC",
    "nav": 18.46,
    "src": "FT Markets",
+   "src_name": "Templeton Asian Growth Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612896:USD"
   },
   "092": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0946220349",
+   "name": "JUPITER FINANCIAL INNOVATION \"D\" (USD) ACC",
    "nav": 28.5,
    "src": "FT Markets",
+   "src_name": "Jupiter Financial Innovation Class D USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0946220349:USD"
   },
   "093": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0792612466",
+   "name": "FRANKLIN U.S. OPPORTUNITIES \"W\" (USD) ACC",
    "nav": 51.66,
    "src": "FT Markets",
+   "src_name": "Franklin U.S. Opportunities Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612466:USD"
   },
   "094": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0346390866",
+   "name": "FIDELITY CHINA FOCUS \"Y\"",
    "nav": 23.3,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - China Focus Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346390866:USD"
   },
   "097": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1997245508",
+   "name": "ALLIANZ CHINA A-SHARES \"RT\" (USD) ACC A",
    "nav": 13.97,
    "src": "FT Markets",
+   "src_name": "Allianz Global Investors Fund - Allianz China A Shares RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1997245508:USD"
   },
   "098": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1698898050",
+   "name": "ALLIANZ GLOBAL ARTIFICIAL INTELLIGENCE \"RT\" (USD) ACC",
    "nav": 29.89,
    "src": "FT Markets",
+   "src_name": "Allianz Global Investors Fund - Allianz Global Artificial Intelligence RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1698898050:USD"
   },
   "100": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0892274530",
+   "name": "JANUS HENDERSON HORIZON GLOBAL PROPERTY EQUITY \"H2\" (USD) ACC",
    "nav": 19.75,
    "src": "FT Markets",
+   "src_name": "Janus Henderson Horizon Global Property Equities Fund H2 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0892274530:USD"
   },
   "101": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "IE00BYVJRD56",
+   "name": "JUPITER ASSET MANAGEMENT SERIES PLC JUPITER GOLD & SILVER \"I\" (USD) ACC",
    "nav": 37.91,
    "src": "FT Markets",
+   "src_name": "Jupiter Gold & Silver Fund I USD Accumulation",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BYVJRD56:USD"
   },
   "103": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0540001038",
+   "name": "BGF GLOBAL GOVERNMENT BOND \"D2\" (USD) ACC",
    "nav": 32.18,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Global Government Bond Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0540001038:USD"
   },
   "106": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0896351102",
+   "name": "FIDELITY FUNDS - GLOBAL BOND \"Y\" (USD) ACC",
    "nav": 10.65,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - Global Bond Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0896351102:USD"
   },
   "108": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0828813369",
+   "name": "JANUS HENDERSON HORIZON GLOBAL TECHNOLOGY LEADERS \"H2\" (USD) ACC",
    "nav": 83.87,
    "src": "FT Markets",
+   "src_name": "Janus Henderson Horizon Global Technology Leaders Fund H2 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0828813369:USD"
   },
   "110": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1560650563",
+   "name": "FIDELITY GLOBAL TECHNOLOGY \"Y\" (USD) ACC",
    "nav": 54.2,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - Global Technology Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1560650563:USD"
   },
   "111": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0106261026",
+   "name": "SCHRODER ISF US DOLLAR BOND \"C\" ACC",
    "nav": 27.05,
    "src": "FT Markets",
+   "src_name": "Schroder International Selection Fund US Dollar Bond C Accumulation USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0106261026:USD"
   },
   "112": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0252969075",
+   "isin_checked": true,
+   "name": "BGF WORLD ENERGY \"D2\" ACC",
    "nav": 41.77,
    "src": "BlackRock",
+   "src_name": "BGF World Energy Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/229924/blackrock-world-energy-d2-usd-fund"
   },
   "114": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0168448610",
+   "name": "PICTET CHINA EQUITIES \"I\" (USD) ACC",
    "nav": 549.42,
    "src": "FT Markets",
+   "src_name": "Pictet-China Equities I USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0168448610:USD"
   },
   "115": {
    "cur": "USD",
    "date": "2026-11-19",
    "isin": "LU0862302089",
+   "name": "UBAM GLOBAL HIGH YIELD SOLUTION \"U\" (USD) ACC",
    "nav": 188.56,
    "src": "FT Markets",
+   "src_name": "UBAM - Global High Yield Solution UC USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0862302089:USD"
   },
   "116": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0370789132",
+   "name": "FIDELITY FUNDS GLOBAL THEMATIC OPPORTUNITIES \"Y\" (USD) ACC",
    "nav": 31.12,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - Global Thematic Opportunities Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0370789132:USD"
   },
   "117": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU2048586593",
+   "name": "ALLIANZ SMART ENERGY \"RT\" (USD) ACC",
    "nav": 17.59,
    "src": "FT Markets",
+   "src_name": "Allianz Global Investors Fund - Allianz Smart Energy RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2048586593:USD"
   },
   "119": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1992939584",
+   "name": "TEMPLETON EUROPEAN INSIGHTS \"W\" (EUR) ACC A",
    "nav": 17.41,
    "src": "FT Markets",
+   "src_name": "Templeton European Insights Fund Class W (acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1992939584:USD"
   },
   "120": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0976566496",
+   "name": "FRANKLIN BIOTECHNOLOGY DISCOVERY \"W\" (USD) ACC",
    "nav": 31.51,
    "src": "FT Markets",
+   "src_name": "Franklin Biotechnology Discovery Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566496:USD"
   },
   "121": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0955862528",
+   "name": "INVESCO GREATER CHINA EQUITY \"Z\" (USD) ACC",
    "nav": 19.8,
    "src": "FT Markets",
+   "src_name": "Invesco Funds - Invesco Greater China Equity Fund Z Accumulation USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0955862528:USD"
   },
   "122": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0724618946",
+   "name": "BGF WORLD TECHNOLOGY \"D2\" (USD) ACC",
    "nav": 134.53,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - World Technology Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0724618946:USD"
   },
   "124": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0954275532",
+   "name": "HSBC GIF INDIAN EQUITY \"BC\" (USD) ACC",
    "nav": 28.65,
    "src": "FT Markets",
+   "src_name": "HSBC Global Investment Funds - Indian Equity BC",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0954275532:USD"
   },
   "125": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0329593007",
+   "name": "BGF WORLD HEALTHSCIENCE \"D2\" ACC",
    "nav": 94.56,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - World Healthscience Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0329593007:USD"
   },
   "126": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0863494851",
+   "name": "KOTAK INDIA MIDCAP \"C\" (USD) ACC",
    "nav": 27.07,
    "src": "FT Markets",
+   "src_name": "Kotak Funds - India Midcap Fund C USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0863494851:USD"
   },
   "129": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0792612383",
+   "name": "FRANKLIN INDIA \"W\" (USD) ACC",
    "nav": 37.0,
    "src": "FT Markets",
+   "src_name": "Franklin India Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612383:USD"
   },
   "131": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0329592538",
+   "name": "BGF GLOBAL ALLOCATION \"D\" ACC",
    "nav": 106.65,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Global Allocation Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0329592538:USD"
   },
   "133": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0130103749",
+   "name": "HARRIS OAKMARK GLOBAL EQUITY FUND \"I\" ACC",
    "nav": 619.28,
    "src": "FT Markets",
+   "src_name": "Natixis International Funds (Lux) I - Harris Oakmark Global Equity Fund I/A (USD)",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0130103749:USD"
   },
   "134": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0326960662",
+   "name": "BGF GLOBAL CORPORATE BOND \"D2\" ACC",
    "nav": 17.26,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Global Corporate Bond Fund D2 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0326960662:USD"
   },
   "137": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1623406540",
+   "name": "SCHRODER ISF JAPANESE EQUITY \"C\" (USD) ACC",
    "nav": 14.15,
    "src": "FT Markets",
+   "src_name": "Schroder International Selection Fund Japanese Equity C Accumulation USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1623406540:USD"
   },
   "139": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0827887356",
+   "name": "BGF USD SHORT DURATION BOND \"D2\" (USD) ACC",
    "nav": 16.39,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - US Dollar Short Duration Bond Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0827887356:USD"
   },
   "140": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0346392482",
+   "name": "FIDELITY US DOLLAR BOND \"Y\" ACC",
    "nav": 17.79,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - US Dollar Bond Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0346392482:USD"
   },
   "141": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1923143488",
+   "name": "ALLIANZ DYNAMIC ASIAN HIGH YIELD BOND \"RT\" (USD) ACC",
    "nav": 8.82,
    "src": "FT Markets",
+   "src_name": "Allianz Global Investors Fund - Allianz Dynamic Asian High Yield Bond RT USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1923143488:USD"
   },
   "142": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1687709441",
+   "name": "ALLIANZ EUROPE EQ GROWTH \"RT\" (USDHDG) ACC",
    "nav": 17.02,
    "src": "FT Markets",
+   "src_name": "Allianz Global Investors Fund - Allianz Europe Equity Growth RT H2 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1687709441:USD"
   },
   "143": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0411709560",
+   "isin_checked": true,
+   "name": "BGF ASIAN DRAGON \"D2\" (USD) ACC",
    "nav": 71.2,
    "src": "BlackRock",
+   "src_name": "BGF Asian Dragon Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/229404/blackrock-asian-dragon-d2-usd-fund"
   },
   "145": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0719319435",
+   "isin_checked": true,
+   "name": "BGF CHINA BOND \"D2\" (USD) ACC",
    "nav": 17.02,
    "src": "BlackRock",
+   "src_name": "BGF China Bond Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/228438/blackrock-renminbi-bond-d2-usd-fund"
   },
   "146": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1984140423",
+   "isin_checked": true,
+   "name": "BGF CONTINENTAL EUROPEAN FLEXIBLE \"D2\" (USD) ACC",
    "nav": 62.21,
    "src": "BlackRock",
+   "src_name": "BGF Continental European Flexible Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/308644/blackrock-continental-european-flexible-fund"
   },
   "147": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1564329206",
+   "isin_checked": true,
+   "name": "BGF DYNAMIC HIGH INCOME \"D2\" (USD) ACC",
    "nav": 15.25,
    "src": "BlackRock",
+   "src_name": "BGF Dynamic High Income Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/292581/blackrock-dynamic-high-income-fund"
   },
   "148": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU2719175031",
+   "name": "BGF EMERGING MARKETS EX-CHINA \"D2\" (USDHDG) ACC",
    "nav": 119.08,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Emerging Markets Ex-China Fund D2 USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2719175031:USD"
   },
   "149": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0653880228",
+   "name": "BGF EMERGING MARKETS EQUITY INCOME \"D2\" (USD) ACC",
    "nav": 26.28,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Emerging Markets Equity Income Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0653880228:USD"
   },
   "150": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0827877472",
+   "isin_checked": true,
+   "name": "BGF EURO BOND \"D2\" (USD) ACC",
    "nav": 31.96,
    "src": "BlackRock",
+   "src_name": "BGF Euro Bond Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/241480/blackrock-euro-bond-d2-usd-fund"
   },
   "151": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0827878280",
+   "isin_checked": true,
+   "name": "BGF EURO MARKETS \"D2\" (USD) ACC",
    "nav": 66.37,
    "src": "BlackRock",
+   "src_name": "BGF Euro-Markets Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/243805/blackrock-euro-markets-d2-usd-fund"
   },
   "152": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0411709727",
+   "isin_checked": true,
+   "name": "BGF EUROPEAN \"D2\" (USD) ACC",
    "nav": 258.39,
    "src": "BlackRock",
+   "src_name": "BGF European Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/229654/blackrock-european-d2-usd-fund"
   },
   "153": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1984140779",
+   "isin_checked": true,
+   "name": "BGF EUROPEAN EQUITY INCOME \"D2\" (USD) ACC",
    "nav": 40.34,
    "src": "BlackRock",
+   "src_name": "BGF European Equity Income Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/308645/blackrock-european-equity-income-fund"
   },
   "154": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0827879411",
+   "isin_checked": true,
+   "name": "BGF EUROPEAN VALUE \"D2\" (USD) ACC",
    "nav": 170.05,
    "src": "BlackRock",
+   "src_name": "BGF European Value Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/243870/blackrock-european-value-d2-usd-fund"
   },
   "155": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0368268198",
+   "name": "BGF GLOBAL DYNAMIC EQUITY \"D2\" (USD)",
    "nav": 47.35,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Global Dynamic Equity Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0368268198:USD"
   },
   "156": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0368270509",
+   "name": "BGF GLOBAL LONG-HORIZON EQUITY \"D2\" (USD) ACC",
    "nav": 110.1,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Global Long-Horizon Equity Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0368270509:USD"
   },
   "157": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0784385337",
+   "name": "BGF GLOBAL MULTI ASSET INCOME \"D2\" (USD) ACC",
    "nav": 19.56,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Global Multi-Asset Income Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0784385337:USD"
   },
   "158": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0724618193",
+   "name": "BGF INDIA \"D2\" (USD) ACC",
    "nav": 65.68,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - India Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0724618193:USD"
   },
   "159": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0827883108",
+   "isin_checked": true,
+   "name": "BGF JAPAN SMALL & MIDCAP OPPORTUNITIES \"D2\" (USD) ACC",
    "nav": 113.62,
    "src": "BlackRock",
+   "src_name": "BGF Japan Small & MidCap Opportunities Fund",
    "url": "https://www.blackrock.com/ae/intermediaries/products/241684/blackrock-japan-small-midcap-opps-d2-usd-fund"
   },
   "160": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0368268602",
+   "name": "BGF SYSTEMATIC GLOBAL EQUITY HIGH INCOME \"D2\" (USD) ACC",
    "nav": 30.97,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - Systematic Global Equity High Income Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0368268602:USD"
   },
   "161": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0252969232",
+   "name": "BGF US FLEXIBLE EQUITY \"D2\" (USD) ACC",
    "nav": 110.53,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - US Flexible Equity Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0252969232:USD"
   },
   "162": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0341384864",
+   "name": "BGF US MID-CAP VALUE \"D2\" (USD)",
    "nav": 538.28,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - US Mid-Cap Value Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0341384864:USD"
   },
   "163": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0297941972",
+   "name": "BGF WORLD BOND \"D2\" (USD) ACC",
    "nav": 90.5,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - World Bond Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0297941972:USD"
   },
   "165": {
    "cur": "USD",
    "date": "2026-11-19",
    "isin": "IE00BYMM2054",
+   "name": "OLD MUTUAL GLOBAL ISLAMIC EQUITY 'D' (USD) ACC",
    "nav": 25.72,
    "src": "FT Markets",
+   "src_name": "Russell Investment Company plc - Old Mutual Global Islamic Equity Fund D Hybrid Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BYMM2054:USD"
   },
   "166": {
    "cur": "USD",
    "date": "2026-11-19",
    "isin": "LU1039522393",
+   "name": "RASMALA GLOBAL SUKUK \"A\" (USD) ACC",
    "nav": 148.29,
    "src": "FT Markets",
+   "src_name": "Rasmala Investment Funds - Rasmala Global Sukuk Fund Rasmala USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1039522393:USD"
   },
   "167": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1060358063",
+   "name": "EMIRATES ISLAMIC GLOBAL BALANCED \"A\" (USD) ACC",
    "nav": 15.09,
    "src": "FT Markets",
+   "src_name": "Emirates NBD SICAV - Emirates Islamic Global Balanced Fund A USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1060358063:USD"
   },
   "168": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0976564954",
+   "name": "TEMPLETON LATIN AMERICA \"W\" (USD) ACC",
    "nav": 10.13,
    "src": "FT Markets",
+   "src_name": "Templeton Latin America Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976564954:USD"
   },
   "172": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0121174428",
+   "name": "GOLDMAN SACHS GLOBAL SOCIAL IMPACT EQUITY \"X\" (USD) ACC",
    "nav": 1923.32,
    "src": "FT Markets",
+   "src_name": "Goldman Sachs Global Social Impact Equity - X Cap USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0121174428:USD"
   },
   "173": {
    "cur": "USD",
    "date": "2026-11-18",
    "isin": "IE000ILYNRB3",
+   "name": "ARYABHATA INDIA \"RDR\" (USD) ACC",
    "nav": 15.79,
    "src": "FT Markets",
+   "src_name": "Aryabhata India Fund RDR USD Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE000ILYNRB3:USD"
   },
   "174": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0333811072",
+   "name": "GOLDMAN SACHS INDIA EQUITY PORTFOLIO \"I\" ACC",
    "nav": 47.91,
    "src": "FT Markets",
+   "src_name": "Goldman Sachs India Equity Portfolio I Acc USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0333811072:USD"
   },
   "175": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0329593262",
+   "name": "BGF WORLD FINANCIALS \"D2\" ACC",
    "nav": 80.97,
    "src": "FT Markets",
+   "src_name": "BlackRock Global Funds - World Financials Fund D2",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0329593262:USD"
   },
   "176": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1586275312",
+   "name": "FRANKLIN INCOME \"W\" (USD) ACC",
    "nav": 16.69,
    "src": "FT Markets",
+   "src_name": "Franklin Income Fund W(Acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1586275312:USD"
   },
   "177": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU2432581036",
+   "name": "FRANKLIN SHARIAH TECHNOLOGY \"W\" (USD) ACC",
    "nav": 18.75,
    "src": "FT Markets",
+   "src_name": "Franklin Shariah Technology Fund W (acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2432581036:USD"
   },
   "178": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "IE00B23Z8S99",
+   "name": "FTGF ROYCE US SMALL CAP OPPORTUNITY \"P\" (U SD) ACC",
    "nav": 515.54,
    "src": "FT Markets",
+   "src_name": "FTGF Royce US Small Cap Opportunity Fund Premier Class US$ Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B23Z8S99:USD"
   },
   "179": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "IE00BK5WVZ23",
+   "name": "PIMCO INCOME \"R\" (USD) ACC",
    "nav": 12.64,
    "src": "FT Markets",
+   "src_name": "PIMCO GIS Income Fund R Class USD Accumulation",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BK5WVZ23:USD"
   },
   "180": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0861579349",
+   "name": "AB LOW VOLATILITY EQUITY PORTFOLIO \"I\" (USD) ACC",
    "nav": 57.61,
    "src": "FT Markets",
+   "src_name": "AB SICAV I - Low Volatility Equity Portfolio I Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0861579349:USD"
   },
   "181": {
    "cur": "USD",
    "date": "2026-11-19",
    "isin": "IE00B62WG306",
+   "isin_checked": true,
+   "name": "ISHARES DEVELOPED WORLD INDEX (IE) \"I\" (USD) ACC",
    "nav": 46.03,
    "src": "BlackRock",
+   "src_name": "iShares Developed World Index Fund (IE)",
    "url": "https://www.blackrock.com/ch/individual/en/products/228634/blackrock-blk-developed-world-index-inst-acc-usd-fund"
   },
   "182": {
    "cur": "USD",
    "date": "2026-11-19",
    "isin": "IE00B4L8GV30",
+   "name": "ISHARES EUROPE INDEX (IE) \"I\" (USD) INC",
    "nav": 23.52,
    "src": "FT Markets",
+   "src_name": "iShares Europe Index Fund (IE) Institutional Dist USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B4L8GV30:USD"
   },
   "183": {
    "cur": "USD",
    "date": "2026-11-19",
    "isin": "IE00B1W56K18",
+   "name": "ISHARES NORTH AMERICA INDEX (IE) \"I\" (USD) ACC",
    "nav": 59.37,
    "src": "FT Markets",
+   "src_name": "iShares North America Index Fund (IE) Institutional Acc USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B1W56K18:USD"
   },
   "184": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU3094265504",
+   "name": "FRANKLIN NEXTSTEP GROWTH \"I\" (USD) ACC",
    "nav": 10.76,
    "src": "FT Markets",
+   "src_name": "Franklin NextStep Growth Fund I(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265504:USD"
   },
   "185": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU3094265413",
+   "name": "FRANKLIN NEXTSTEP MODERATE \"I\" (USD) ACC",
    "nav": 10.67,
    "src": "FT Markets",
+   "src_name": "Franklin NextStep Moderate Fund I(Acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265413:USD"
   },
   "186": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU3094265330",
+   "name": "FRANKLIN NEXTSTEP CONSERVATIVE \"I\" (USD) ACC",
    "nav": 10.44,
    "src": "FT Markets",
+   "src_name": "Franklin NextStep Conservative Fund I(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265330:USD"
   },
   "187": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU0605515963",
+   "name": "FIDELITY GLOBAL DIVIDEND \"Y\" (USD) ACC",
    "nav": 41.91,
    "src": "FT Markets",
+   "src_name": "Fidelity Funds - Global Dividend Fund Y-Acc-USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0605515963:USD"
   },
   "188": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1689658778",
+   "name": "MIRAE ASSET INDIA MID CAP EQUITY \"R\" (USD) ACC",
    "nav": 18.09,
    "src": "FT Markets",
+   "src_name": "Mirae Asset Global Discovery Fund - Mirae Asset India Mid Cap Equity Fund R USD Capitalization",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1689658778:USD"
   },
   "189": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU1060357842",
+   "name": "EMIRATES WORLD OPPORTUNITIES \"I\" (USD) ACC",
    "nav": 12.43,
    "src": "FT Markets",
+   "src_name": "Emirates NBD SICAV - Emirates World Opportunities Fund I USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1060357842:USD"
   },
   "202": {
    "cur": "USD",
    "date": "2026-11-20",
    "isin": "LU2027376685",
+   "name": "MULTIPARTNER SICAV TATA INDIA EQUITY FUND \"R\" (USD) ACC",
    "nav": 120.14,
    "src": "FT Markets",
+   "src_name": "Multipartner Sicav Tata India Equity Fund R USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2027376685:USD"
   }
  }
