@@ -1,0 +1,28 @@
+name: Update fund prices
+on:
+  schedule:
+    - cron: "17 */3 * * *"   # every 3 hours
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: [funds.csv, fetch_prices.py, .github/workflows/prices.yml]
+permissions:
+  contents: write
+concurrency: prices
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: python fetch_prices.py
+      - name: Save prices.json
+        run: |
+          git config user.name "price-bot"
+          git config user.email "price-bot@users.noreply.github.com"
+          git add prices.json
+          git commit -m "Prices checked $(date -u +%Y-%m-%dT%H:%MZ)" || echo "no change"
+          git push
