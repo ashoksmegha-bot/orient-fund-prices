@@ -1,5 +1,9 @@
 # Orient fund prices
 
+**Tools (share this link):** https://ashoksmegha-bot.github.io/orient-fund-prices/
+
+The tool pages live on the `gh-pages` branch. Each one is a single self-contained HTML file that loads `prices.json` from this branch when opened.
+
 A free job reads the latest fund prices (NAV) every 3 hours from FT Markets
 (by ISIN) and, where a link is given, from BlackRock's own fund page. It
 saves them in `prices.json`, which the Orient ULIP tools load when they open.
