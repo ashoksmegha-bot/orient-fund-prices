@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-25T02:30:25Z",
+ "checked_utc": "2026-11-25T12:56:26Z",
  "count": 99,
  "errors": [],
  "funds": {
@@ -45,10 +45,10 @@
   },
   "063": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0976566736",
    "name": "FRANKLIN TECHNOLOGY \"W\" (USD) ACC",
-   "nav": 82.35,
+   "nav": 79.73,
    "src": "FT Markets",
    "src_name": "Franklin Technology Fund W (Acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566736:USD"
@@ -75,10 +75,10 @@
   },
   "067": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU2233258073",
    "name": "HSBC ISLAMIC GLOBAL EQUITY INDEX \"BC\" (USD) ACC",
-   "nav": 18.63,
+   "nav": 18.6,
    "src": "FT Markets",
    "src_name": "HSBC Islamic Funds - HSBC Islamic Global Equity Index Fund BC",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2233258073:USD"
@@ -125,10 +125,10 @@
   },
   "074": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0792613431",
    "name": "TEMPLETON GLOBAL TOTAL RETURN \"W\" (USD) ACC",
-   "nav": 11.95,
+   "nav": 11.91,
    "src": "FT Markets",
    "src_name": "Templeton Global Total Return Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792613431:USD"
@@ -216,20 +216,20 @@
   },
   "090": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "IE00BVG1NY86",
    "name": "FTGF CLEARBRIDGE US LARGE CAP GROWTH \"X\" (USD) ACC",
-   "nav": 384.03,
+   "nav": 377.77,
    "src": "FT Markets",
    "src_name": "FTGF ClearBridge US Large Cap Growth Fund Class X US$ Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BVG1NY86:USD"
   },
   "091": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0792612896",
    "name": "TEMPLETON ASIAN GROWTH \"W\" (USD) ACC",
-   "nav": 19.66,
+   "nav": 19.28,
    "src": "FT Markets",
    "src_name": "Templeton Asian Growth Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612896:USD"
@@ -246,10 +246,10 @@
   },
   "093": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0792612466",
    "name": "FRANKLIN U.S. OPPORTUNITIES \"W\" (USD) ACC",
-   "nav": 54.96,
+   "nav": 53.7,
    "src": "FT Markets",
    "src_name": "Franklin U.S. Opportunities Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612466:USD"
@@ -407,20 +407,20 @@
   },
   "119": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU1992939584",
    "name": "TEMPLETON EUROPEAN INSIGHTS \"W\" (EUR) ACC A",
-   "nav": 17.87,
+   "nav": 17.94,
    "src": "FT Markets",
    "src_name": "Templeton European Insights Fund Class W (acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1992939584:USD"
   },
   "120": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0976566496",
    "name": "FRANKLIN BIOTECHNOLOGY DISCOVERY \"W\" (USD) ACC",
-   "nav": 32.7,
+   "nav": 34.77,
    "src": "FT Markets",
    "src_name": "Franklin Biotechnology Discovery Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566496:USD"
@@ -477,10 +477,10 @@
   },
   "129": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0792612383",
    "name": "FRANKLIN INDIA \"W\" (USD) ACC",
-   "nav": 36.67,
+   "nav": 37.03,
    "src": "FT Markets",
    "src_name": "Franklin India Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612383:USD"
@@ -497,10 +497,10 @@
   },
   "133": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0130103749",
    "name": "HARRIS OAKMARK GLOBAL EQUITY FUND \"I\" ACC",
-   "nav": 627.74,
+   "nav": 632.17,
    "src": "FT Markets",
    "src_name": "Natixis International Funds (Lux) I - Harris Oakmark Global Equity Fund I/A (USD)",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0130103749:USD"
@@ -787,10 +787,10 @@
   },
   "166": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU1039522393",
    "name": "RASMALA GLOBAL SUKUK \"A\" (USD) ACC",
-   "nav": 148.23,
+   "nav": 148.3,
    "src": "FT Markets",
    "src_name": "Rasmala Investment Funds - Rasmala Global Sukuk Fund Rasmala USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1039522393:USD"
@@ -807,20 +807,20 @@
   },
   "168": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0976564954",
    "name": "TEMPLETON LATIN AMERICA \"W\" (USD) ACC",
-   "nav": 10.27,
+   "nav": 10.19,
    "src": "FT Markets",
    "src_name": "Templeton Latin America Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976564954:USD"
   },
   "172": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0121174428",
    "name": "GOLDMAN SACHS GLOBAL SOCIAL IMPACT EQUITY \"X\" (USD) ACC",
-   "nav": 1967.41,
+   "nav": 1968.68,
    "src": "FT Markets",
    "src_name": "Goldman Sachs Global Social Impact Equity - X Cap USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0121174428:USD"
@@ -857,37 +857,37 @@
   },
   "176": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU1586275312",
    "name": "FRANKLIN INCOME \"W\" (USD) ACC",
-   "nav": 16.88,
+   "nav": 16.89,
    "src": "FT Markets",
    "src_name": "Franklin Income Fund W(Acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1586275312:USD"
   },
   "177": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU2432581036",
    "name": "FRANKLIN SHARIAH TECHNOLOGY \"W\" (USD) ACC",
-   "nav": 20.33,
+   "nav": 19.59,
    "src": "FT Markets",
    "src_name": "Franklin Shariah Technology Fund W (acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2432581036:USD"
   },
   "178": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "IE00B23Z8S99",
    "name": "FTGF ROYCE US SMALL CAP OPPORTUNITY \"P\" (U SD) ACC",
-   "nav": 536.88,
+   "nav": 530.69,
    "src": "FT Markets",
    "src_name": "FTGF Royce US Small Cap Opportunity Fund Premier Class US$ Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B23Z8S99:USD"
   },
   "179": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "IE00BK5WVZ23",
    "name": "PIMCO INCOME \"R\" (USD) ACC",
    "nav": 12.65,
@@ -897,10 +897,10 @@
   },
   "180": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU0861579349",
    "name": "AB LOW VOLATILITY EQUITY PORTFOLIO \"I\" (USD) ACC",
-   "nav": 59.42,
+   "nav": 59.53,
    "src": "FT Markets",
    "src_name": "AB SICAV I - Low Volatility Equity Portfolio I Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0861579349:USD"
@@ -938,27 +938,27 @@
   },
   "184": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU3094265504",
    "name": "FRANKLIN NEXTSTEP GROWTH \"I\" (USD) ACC",
-   "nav": 11.06,
+   "nav": 11.03,
    "src": "FT Markets",
    "src_name": "Franklin NextStep Growth Fund I(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265504:USD"
   },
   "185": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU3094265413",
    "name": "FRANKLIN NEXTSTEP MODERATE \"I\" (USD) ACC",
-   "nav": 10.91,
+   "nav": 10.89,
    "src": "FT Markets",
    "src_name": "Franklin NextStep Moderate Fund I(Acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265413:USD"
   },
   "186": {
    "cur": "USD",
-   "date": "2026-11-23",
+   "date": "2026-11-24",
    "isin": "LU3094265330",
    "name": "FRANKLIN NEXTSTEP CONSERVATIVE \"I\" (USD) ACC",
    "nav": 10.55,
