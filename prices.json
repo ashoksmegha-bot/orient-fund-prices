@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-27T03:40:23Z",
+ "checked_utc": "2026-11-27T16:41:28Z",
  "count": 99,
  "errors": [],
  "funds": {
@@ -65,10 +65,10 @@
   },
   "066": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "isin": "LU0219455952",
    "name": "MFS MERIDIAN EMERGING MARKETS DEBT \"I1\" ACC",
-   "nav": 301.35,
+   "nav": 301.5,
    "src": "FT Markets",
    "src_name": "MFS Meridian Funds - Emerging Markets Debt Fund I1 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219455952:USD"
@@ -95,10 +95,10 @@
   },
   "070": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "isin": "LU0219454633",
    "name": "MFS MERIDIAN GLOBAL EQUITY \"I1\" ACC",
-   "nav": 500.36,
+   "nav": 500.43,
    "src": "FT Markets",
    "src_name": "MFS Meridian Funds - Global Equity Fund I1 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219454633:USD"
@@ -777,20 +777,20 @@
   },
   "165": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "isin": "IE00BYMM2054",
    "name": "OLD MUTUAL GLOBAL ISLAMIC EQUITY 'D' (USD) ACC",
-   "nav": 25.39,
+   "nav": 25.48,
    "src": "FT Markets",
    "src_name": "Russell Investment Company plc - Old Mutual Global Islamic Equity Fund D Hybrid Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BYMM2054:USD"
   },
   "166": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "isin": "LU1039522393",
    "name": "RASMALA GLOBAL SUKUK \"A\" (USD) ACC",
-   "nav": 148.3,
+   "nav": 148.32,
    "src": "FT Markets",
    "src_name": "Rasmala Investment Funds - Rasmala Global Sukuk Fund Rasmala USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1039522393:USD"
@@ -918,10 +918,10 @@
   },
   "182": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-26",
    "isin": "IE00B4L8GV30",
    "name": "ISHARES EUROPE INDEX (IE) \"I\" (USD) INC",
-   "nav": 23.05,
+   "nav": 23.5,
    "src": "FT Markets",
    "src_name": "iShares Europe Index Fund (IE) Institutional Dist USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B4L8GV30:USD"
@@ -998,10 +998,10 @@
   },
   "202": {
    "cur": "USD",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "isin": "LU2027376685",
    "name": "MULTIPARTNER SICAV TATA INDIA EQUITY FUND \"R\" (USD) ACC",
-   "nav": 119.89,
+   "nav": 118.5,
    "src": "FT Markets",
    "src_name": "Multipartner Sicav Tata India Equity Fund R USD Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2027376685:USD"
