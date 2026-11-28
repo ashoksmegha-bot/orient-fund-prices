@@ -1,5 +1,5 @@
 {
- "checked_utc": "2026-11-28T01:28:39Z",
+ "checked_utc": "2026-11-28T11:45:36Z",
  "count": 99,
  "errors": [],
  "funds": {
@@ -45,10 +45,10 @@
   },
   "063": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0976566736",
    "name": "FRANKLIN TECHNOLOGY \"W\" (USD) ACC",
-   "nav": 78.82,
+   "nav": 81.2,
    "src": "FT Markets",
    "src_name": "Franklin Technology Fund W (Acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566736:USD"
@@ -65,10 +65,10 @@
   },
   "066": {
    "cur": "USD",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "isin": "LU0219455952",
    "name": "MFS MERIDIAN EMERGING MARKETS DEBT \"I1\" ACC",
-   "nav": 301.5,
+   "nav": 303.73,
    "src": "FT Markets",
    "src_name": "MFS Meridian Funds - Emerging Markets Debt Fund I1 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219455952:USD"
@@ -95,10 +95,10 @@
   },
   "070": {
    "cur": "USD",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "isin": "LU0219454633",
    "name": "MFS MERIDIAN GLOBAL EQUITY \"I1\" ACC",
-   "nav": 500.43,
+   "nav": 506.12,
    "src": "FT Markets",
    "src_name": "MFS Meridian Funds - Global Equity Fund I1 USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0219454633:USD"
@@ -125,10 +125,10 @@
   },
   "074": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0792613431",
    "name": "TEMPLETON GLOBAL TOTAL RETURN \"W\" (USD) ACC",
-   "nav": 11.96,
+   "nav": 12.09,
    "src": "FT Markets",
    "src_name": "Templeton Global Total Return Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792613431:USD"
@@ -216,20 +216,20 @@
   },
   "090": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "IE00BVG1NY86",
    "name": "FTGF CLEARBRIDGE US LARGE CAP GROWTH \"X\" (USD) ACC",
-   "nav": 375.94,
+   "nav": 384.28,
    "src": "FT Markets",
    "src_name": "FTGF ClearBridge US Large Cap Growth Fund Class X US$ Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BVG1NY86:USD"
   },
   "091": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0792612896",
    "name": "TEMPLETON ASIAN GROWTH \"W\" (USD) ACC",
-   "nav": 19.15,
+   "nav": 19.73,
    "src": "FT Markets",
    "src_name": "Templeton Asian Growth Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612896:USD"
@@ -246,10 +246,10 @@
   },
   "093": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0792612466",
    "name": "FRANKLIN U.S. OPPORTUNITIES \"W\" (USD) ACC",
-   "nav": 53.45,
+   "nav": 54.73,
    "src": "FT Markets",
    "src_name": "Franklin U.S. Opportunities Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612466:USD"
@@ -407,20 +407,20 @@
   },
   "119": {
    "cur": "USD",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "isin": "LU1992939584",
    "name": "TEMPLETON EUROPEAN INSIGHTS \"W\" (EUR) ACC A",
-   "nav": 18.06,
+   "nav": 18.27,
    "src": "FT Markets",
    "src_name": "Templeton European Insights Fund Class W (acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1992939584:USD"
   },
   "120": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0976566496",
    "name": "FRANKLIN BIOTECHNOLOGY DISCOVERY \"W\" (USD) ACC",
-   "nav": 34.8,
+   "nav": 35.13,
    "src": "FT Markets",
    "src_name": "Franklin Biotechnology Discovery Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976566496:USD"
@@ -477,10 +477,10 @@
   },
   "129": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0792612383",
    "name": "FRANKLIN INDIA \"W\" (USD) ACC",
-   "nav": 37.58,
+   "nav": 37.27,
    "src": "FT Markets",
    "src_name": "Franklin India Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0792612383:USD"
@@ -497,10 +497,10 @@
   },
   "133": {
    "cur": "USD",
-   "date": "2026-11-26",
+   "date": "2026-11-27",
    "isin": "LU0130103749",
    "name": "HARRIS OAKMARK GLOBAL EQUITY FUND \"I\" ACC",
-   "nav": 638.37,
+   "nav": 645.97,
    "src": "FT Markets",
    "src_name": "Natixis International Funds (Lux) I - Harris Oakmark Global Equity Fund I/A (USD)",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0130103749:USD"
@@ -807,20 +807,20 @@
   },
   "168": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0976564954",
    "name": "TEMPLETON LATIN AMERICA \"W\" (USD) ACC",
-   "nav": 10.44,
+   "nav": 11.21,
    "src": "FT Markets",
    "src_name": "Templeton Latin America Fund W(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0976564954:USD"
   },
   "172": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0121174428",
    "name": "GOLDMAN SACHS GLOBAL SOCIAL IMPACT EQUITY \"X\" (USD) ACC",
-   "nav": 1961.29,
+   "nav": 1994.7,
    "src": "FT Markets",
    "src_name": "Goldman Sachs Global Social Impact Equity - X Cap USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0121174428:USD"
@@ -857,50 +857,50 @@
   },
   "176": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU1586275312",
    "name": "FRANKLIN INCOME \"W\" (USD) ACC",
-   "nav": 16.94,
+   "nav": 17.03,
    "src": "FT Markets",
    "src_name": "Franklin Income Fund W(Acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU1586275312:USD"
   },
   "177": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU2432581036",
    "name": "FRANKLIN SHARIAH TECHNOLOGY \"W\" (USD) ACC",
-   "nav": 19.33,
+   "nav": 19.92,
    "src": "FT Markets",
    "src_name": "Franklin Shariah Technology Fund W (acc) USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU2432581036:USD"
   },
   "178": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "IE00B23Z8S99",
    "name": "FTGF ROYCE US SMALL CAP OPPORTUNITY \"P\" (U SD) ACC",
-   "nav": 535.37,
+   "nav": 548.1,
    "src": "FT Markets",
    "src_name": "FTGF Royce US Small Cap Opportunity Fund Premier Class US$ Accumulating",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00B23Z8S99:USD"
   },
   "179": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "IE00BK5WVZ23",
    "name": "PIMCO INCOME \"R\" (USD) ACC",
-   "nav": 12.69,
+   "nav": 12.7,
    "src": "FT Markets",
    "src_name": "PIMCO GIS Income Fund R Class USD Accumulation",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=IE00BK5WVZ23:USD"
   },
   "180": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU0861579349",
    "name": "AB LOW VOLATILITY EQUITY PORTFOLIO \"I\" (USD) ACC",
-   "nav": 59.47,
+   "nav": 60.1,
    "src": "FT Markets",
    "src_name": "AB SICAV I - Low Volatility Equity Portfolio I Acc",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU0861579349:USD"
@@ -938,30 +938,30 @@
   },
   "184": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU3094265504",
    "name": "FRANKLIN NEXTSTEP GROWTH \"I\" (USD) ACC",
-   "nav": 11.02,
+   "nav": 11.17,
    "src": "FT Markets",
    "src_name": "Franklin NextStep Growth Fund I(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265504:USD"
   },
   "185": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU3094265413",
    "name": "FRANKLIN NEXTSTEP MODERATE \"I\" (USD) ACC",
-   "nav": 10.89,
+   "nav": 11.0,
    "src": "FT Markets",
    "src_name": "Franklin NextStep Moderate Fund I(Acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265413:USD"
   },
   "186": {
    "cur": "USD",
-   "date": "2026-11-25",
+   "date": "2026-11-27",
    "isin": "LU3094265330",
    "name": "FRANKLIN NEXTSTEP CONSERVATIVE \"I\" (USD) ACC",
-   "nav": 10.57,
+   "nav": 10.6,
    "src": "FT Markets",
    "src_name": "Franklin NextStep Conservative Fund I(acc)USD",
    "url": "https://markets.ft.com/data/funds/tearsheet/summary?s=LU3094265330:USD"
